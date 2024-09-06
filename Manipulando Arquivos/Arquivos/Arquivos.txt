@@ -1,4 +1,1 @@
-Arquivos para realizar a manipulacao em python
-Python e uma linguagem de programacao de alto nivel, amplamente utilizada por sua simplicidade e legibilidade.
-Criada por Guido van Rossum e lancada pela primeira vez em 1991, Python se destaca por sua sintaxe clara,
-que permite aos desenvolvedores expressar conceitos em menos linhas de codigo em comparacao com outras linguagens.
+Escrevendo dentro do arquivo
